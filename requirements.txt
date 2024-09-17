@@ -1,6 +1,7 @@
 streamlit
 pandas
 seaborn 
-matplotlib.pyplot 
-matplotlib.ticker
-sklearn
+matplotlib
+scikit-learn
+wbdata
+statsmodels
